@@ -1,0 +1,542 @@
+{
+  "What are the admissions deadlines for SUTD?": {
+    "finetuned_no_rag": {
+      "correctness": 3,
+      "completeness": 3,
+      "relevance": 4,
+      "clarity": 4
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "best_answer": "finetuned_no_rag"
+  },
+  "Is there financial aid available?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 2,
+      "relevance": 1,
+      "clarity": 3
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 2
+    },
+    "finetuned_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_rag": {
+      "correctness": 3,
+      "completeness": 2,
+      "relevance": 4,
+      "clarity": 3
+    },
+    "best_answer": "base_rag"
+  },
+  "What is the minimum score for the Mother Tongue Language?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "best_answer": "base_rag"
+  },
+  "Do I require reference letters?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "Can polytechnic diploma students apply?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 4,
+      "completeness": 3,
+      "relevance": 5,
+      "clarity": 4
+    },
+    "base_rag": {
+      "correctness": 2,
+      "completeness": 1,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "Do I need SAT score?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "How many PhD students does SUTD have?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 2,
+      "relevance": 3,
+      "clarity": 3
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 3,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "How much are the tuition fees for Singaporeans?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 3,
+      "completeness": 3,
+      "relevance": 5,
+      "clarity": 3
+    },
+    "base_rag": {
+      "correctness": 3,
+      "completeness": 3,
+      "relevance": 5,
+      "clarity": 3
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "How much are the tuition fees for international students?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 3,
+      "completeness": 3,
+      "relevance": 5,
+      "clarity": 3
+    },
+    "base_rag": {
+      "correctness": 4,
+      "completeness": 3,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "best_answer": "base_rag"
+  },
+  "Is there a minimum CAP?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 4,
+      "completeness": 4,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "What are the application requirements for international students?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 3,
+      "completeness": 2,
+      "relevance": 3,
+      "clarity": 3
+    },
+    "finetuned_rag": {
+      "correctness": 4,
+      "completeness": 3,
+      "relevance": 5,
+      "clarity": 3
+    },
+    "base_rag": {
+      "correctness": 3,
+      "completeness": 3,
+      "relevance": 4,
+      "clarity": 3
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "What is the difference between CSD and DAI?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_rag": {
+      "correctness": 4,
+      "completeness": 4,
+      "relevance": 4,
+      "clarity": 4
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "What kind of careers can I pursue with a degree in ESD from SUTD?": {
+    "finetuned_no_rag": {
+      "correctness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_rag": {
+      "correctness": 2,
+      "completeness": 1,
+      "relevance": 2,
+      "clarity": 2
+    },
+    "best_overall_answer": "finetuned_no_rag"
+  },
+  "What programs or majors does SUTD offer?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "best_answer": "base_rag"
+  },
+  "What are the available student exchange programs at SUTD and which partner universities can I go to?": {
+    "finetuned_no_rag": {
+      "correctness": 3,
+      "completeness": 2,
+      "relevance": 3,
+      "clarity": 3
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 2,
+      "relevance": 1,
+      "clarity": 2
+    },
+    "finetuned_rag": {
+      "correctness": 3,
+      "completeness": 3,
+      "relevance": 4,
+      "clarity": 3
+    },
+    "base_rag": {
+      "correctness": 2,
+      "completeness": 2,
+      "relevance": 3,
+      "clarity": 2
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "Are interviews part of the admissions process?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 3,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_rag": {
+      "correctness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "best_answer": "base_rag"
+  },
+  "Are there scholarships for international students?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 3
+    },
+    "base_no_rag": {
+      "correctness": 2,
+      "completeness": 2,
+      "relevance": 2,
+      "clarity": 3
+    },
+    "finetuned_rag": {
+      "correctness": 4,
+      "completeness": 4,
+      "relevance": 5,
+      "clarity": 4
+    },
+    "base_rag": {
+      "correctness": 4,
+      "completeness": 3,
+      "relevance": 5,
+      "clarity": 4
+    },
+    "best_answer": "finetuned_rag"
+  },
+  "What is campus life like at SUTD?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 2,
+      "completeness": 2,
+      "relevance": 2,
+      "clarity": 2
+    },
+    "finetuned_rag": {
+      "correctness": 3,
+      "completeness": 3,
+      "relevance": 3,
+      "clarity": 3
+    },
+    "base_rag": {
+      "correctness": 4,
+      "completeness": 4,
+      "relevance": 4,
+      "clarity": 4
+    },
+    "best_answer": "base_rag"
+  },
+  "Can an international student study with tuition grant at SUTD?": {
+    "finetuned_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_no_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "finetuned_rag": {
+      "correctness": 1,
+      "completeness": 1,
+      "relevance": 1,
+      "clarity": 1
+    },
+    "base_rag": {
+      "correctness": 3,
+      "completeness": 2,
+      "relevance": 3,
+      "clarity": 3
+    },
+    "best_answer": "base_rag"
+  },
+  "Why is SUTD a Design AI university": {
+    "finetuned_no_rag": {
+      "correctness": 4,
+      "completeness": 5,
+      "relevance": 5,
+      "clarity": 5
+    },
+    "base_no_rag": {
+      "correctness": 3,
+      "completeness": 1,
+      "relevance": 3,
+      "clarity": 3
+    },
+    "finetuned_rag": {
+      "correctness": 4,
+      "completeness": 3,
+      "relevance": 4,
+      "clarity": 4
+    },
+    "base_rag": {
+      "correctness": 3,
+      "completeness": 1,
+      "relevance": 3,
+      "clarity": 3
+    },
+    "best_answer": "finetuned_no_rag"
+  }
+}
